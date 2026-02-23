@@ -1,3 +1,4 @@
+
 ## ⚡ Backend & Minecraft Systems Developer
 
 Independent software developer focused on high-performance backend systems and advanced Minecraft server engineering.
@@ -27,5 +28,3 @@ Founder and lead developer of **GLeaks.pro** a large-scale Minecraft resource pl
 Build scalable systems.  
 Maintain full infrastructure control.  
 Prioritize performance and resilience over shortcuts.
-
----
