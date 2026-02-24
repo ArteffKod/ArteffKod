@@ -9,7 +9,6 @@ Founder and lead developer of **GLeaks.pro**.
 ### 🛠 Core Expertise
 - Minecraft plugin development (Paper / Velocity / Fabric)
 - Backend system architecture
-- License & validation systems
 - Infrastructure control & optimization
 - Security-focused development
 - Reverse engineering awareness
