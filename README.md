@@ -1,11 +1,6 @@
 # Hi there 👋
 
-
-
-
-
-
-
+---
 
 ## ⚡ Backend & Minecraft Systems Developer
 Independent software developer focused on high-performance backend systems and advanced Minecraft server engineering.
