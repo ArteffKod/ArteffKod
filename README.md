@@ -2,12 +2,12 @@
 
 ### ⚡ Backend & Minecraft Systems Developer
 Independent software developer focused on high-performance backend systems and advanced Minecraft server engineering.
-Founder and lead developer of **GLeaks.pro** a large-scale Minecraft resource platform built with custom security systems, license validation logic, infrastructure automation, and abuse-resistant architecture.
+Founder and lead developer of **GLeaks.pro** a Minecraft forum.
 
 ---
 
 ### 🛠 Core Expertise
-- Minecraft plugin development (Paper / Bukkit / Fabric)
+- Minecraft plugin development (Paper / Velocity / Fabric)
 - Backend system architecture
 - License & validation systems
 - Infrastructure control & optimization
