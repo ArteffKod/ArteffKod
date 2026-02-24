@@ -2,6 +2,11 @@
 
 
 
+
+
+
+
+
 ## ⚡ Backend & Minecraft Systems Developer
 Independent software developer focused on high-performance backend systems and advanced Minecraft server engineering.
 Founder and lead developer of **GLeaks.pro** a large-scale Minecraft resource platform built with custom security systems, license validation logic, infrastructure automation, and abuse-resistant architecture.
